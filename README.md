@@ -57,3 +57,7 @@ python3 -m ipykernel install --name neural-chat-1 --user
 
 ### Dataset
 We use the Alpaca dataset [https://github.com/tatsu-lab/stanford_alpaca] from Stanford University as the general domain dataset to fine-tune the model. This dataset is provided in the form of a JSON file, alpaca_data.json. In Alpaca, researchers have manually crafted 175 seed tasks to guide text-davinci-003 in generating 52K instruction data for diverse tasks.
+
+
+### View Project
+The project link: [https://youtu.be/tL701g38ZMg]
